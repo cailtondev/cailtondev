@@ -1,7 +1,9 @@
-<img src="images/carregando.gif" height="6" width="1200" alt="Gif animado">
-<h2><a href="">Olá, seja bem-vindo(a)</a></h2>
+## Olá, Seja Bem-vindo (a) 👋
 
-#### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
+#### 💻 Programador Front End (Junior) - 🌍 Poções-BA - 🎈 18 anos
+
+### Linguagens ###
+  <img src="images/paulista.jpg" height="156" width="156" alt="O céu da avenida Paulista, foto por http://www.flickr.com/photos/jairo_abud">
 
 #### Linguagem:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
