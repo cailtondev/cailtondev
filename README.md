@@ -1,7 +1,5 @@
-<img src="https://user-images.githubusercontent.com/84406466/120894275-f7c90700-c5ed-11eb-8e5e-bddc1bfe093f.gif" height="156" width="156" alt="A varanda do Armazém Piola, foto por Fernado Moraes">
-![logo](https://user-images.githubusercontent.com/84406466/120894275-f7c90700-c5ed-11eb-8e5e-bddc1bfe093f.gif)
-
-## Olá, Seja Bem-vindo (a) 👋
+<img src="images/carregando.gif" height="6" width="1200" alt="Gif animado">
+<h2><a href="">Olá, seja bem-vindo(a)</a></h2>
 
 #### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
 
