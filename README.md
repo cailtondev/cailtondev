@@ -1,4 +1,5 @@
 <div class="place"><br>
+<img src="images/carregando.gif" height="10" width="1200" alt="Gif Animado">
   <h1>Olá, Seja Bem-vindo (a) 👋</h1>
 
   ### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
