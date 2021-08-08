@@ -1,8 +1,8 @@
-<img src="images/carregando.gif" height="10" width="1200" alt="Gif Animado">
+<img src="images/carregando.gif" height="10" width="1000" alt="Gif Animado">
 <div>
   <h1>Olá, Seja Bem-vindo (a) 👋</h1>
   
-  <img align="right" alt="Cailton-Animação" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Animação" height="170" width="156" src="images/dev.gif">
 
   ### 💻 Programador Junior | 🌍 Poções-BA | 🎈 18 anos
   
