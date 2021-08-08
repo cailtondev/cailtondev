@@ -1,8 +1,10 @@
-<div class="place"><br>
 <img src="images/carregando.gif" height="10" width="1200" alt="Gif Animado">
+<div>
   <h1>Olá, Seja Bem-vindo (a) 👋</h1>
+  
+  <img align="right" alt="Cailton-Animação" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 
-  ### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
+  ### 💻 Programador Junior | 🌍 Poções-BA | 🎈 18 anos
   
   <h3>Linguagens:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
