@@ -1,33 +1,32 @@
-## Olá, Seja Bem-vindo (a) 👋
+<div style="display: inline_block"><br>
+  <h1>Olá, Seja Bem-vindo (a) 👋</h1>
 
-#### 💻 Programador Front End (Junior) - 🌍 Poções-BA - 🎈 18 anos
+  ### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
+  
+  <h3>Linguagens</h3>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-### Linguagens ###
-  <img src="images/paulista.jpg" height="156" width="156" alt="O céu da avenida Paulista, foto por http://www.flickr.com/photos/jairo_abud">
-
-#### Linguagem:
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-#### Plataformas:
+### Plataformas:
 ![Pc Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-#### Idle:
+### Idle:
 ![Pycharm Badge](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupter Badge](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![VScode Badge](https://img.shields.io/badge/VScode-6C33AF?logo=visual%20studio)
 ![Qpython Badge](https://img.shields.io/badge/PyDroid-blue?style=flat&logo=android&logoColor=white)
 
-#### Frameworks:
-![Django Badge](https://img.shields.io/badge/Django-blue?style=flat&logo=django&logoColor=white)
-![Numpy Badge](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Flask Badge](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=flask&logoColor=000000)
-![Pygame Badge](https://img.shields.io/badge/Pygame-brightgreen?style=flat&logo=pygame&logoColor=white)
-![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matploit&logoColor=blu)
-####
-![GitHub](https://github-readme-stats.vercel.app/api?username=Cailtom&show_icons=true&theme=react)
-![Snake animation](https://github.com/Cailtom/Cailtom/blob/output/github-contribution-grid-snake.svg)
+![GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom&theme=blue-green)
+
+<p>
+  <h5>Contato:</h1>
+</p>
+
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-57D153?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/557799328936?text=%20)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/cailtom_oliveyra02)
 ![Menssager Badger](https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white)
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cailton-oliveira)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+ 
