@@ -1,9 +1,9 @@
-<div style="display: inline_block"><br>
+<div class="place"><br>
   <h1>Olá, Seja Bem-vindo (a) 👋</h1>
 
   ### 💻 Programador Back-end - 🌍 Poções-BA - 🎈 18 anos
   
-  <h3>Linguagens</h3>
+  <h3>Linguagens:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
