@@ -1,8 +1,6 @@
 <img src="images/carregando.gif" height="10" width="1000" alt="Gif Animado">
 <div>
   <h1>Olá, Seja Bem-vindo (a) 👋</h1>
-  
-  <img align="right" alt="Animação" height="170" width="156" src="images/Dev (3).gif">
 
   ### 💻 Programador Junior | 🌍 Poções-BA | 🎈 18 anos
   
