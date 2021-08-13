@@ -6,7 +6,8 @@
   </head>
   <body>
     <div class="container">
-      <h1>Olá, Seja Bem-Vindo(a)!<img src="image/ghost.gif" alt="animado" height="50" width="70"></h1>
+      <h1>Olá, Seja Bem-Vindo(a)!
+      <img src="images/ghost.gif" alt="animado" height="30" width="40"></h1>
       <p>
         🖥 Programador Junior | 🇧🇷 Poções-BA | 🎈 18 Anos
       </p>      
