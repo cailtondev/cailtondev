@@ -37,7 +37,6 @@
 ##
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cailtom&theme=blue-green" alt="Git status" height="220">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cailtom&theme=blue-green" alt="status git" height="220" width="385">
 </p>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-57D153?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/557799328936?text=%20)
