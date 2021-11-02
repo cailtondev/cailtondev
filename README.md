@@ -31,7 +31,7 @@ ____
 <br/>
 </p>
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left">
+<img src="images/imagem-1.png" min-width="400px" max-width="400px" width="400px" align="left">
     
 <p align="right">
 <h3> 📱 Contato: <h3>
