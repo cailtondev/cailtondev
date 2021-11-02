@@ -4,7 +4,7 @@
 </p>
       
 ____
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
 
 
 <p align="left">
@@ -29,16 +29,14 @@ ____
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
       
 <br/>
+<hr>
 </p>
  
-<img src="images/imagem-1.png" min-width="400px" max-width="400px" width="400px" align="left">
-    
-<p align="right">
-<h3> 📱 Contato: <h3>
-
+[![card](https://github-readme-stats.vercel.app/api?username=Cailtom&theme=tokyonight)](https://github.com/Cailtom/)
+        
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/557799328936?text=%20)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cailtom_oliveyra02)
 ![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cailton-oliveira)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)
-</p>
+
