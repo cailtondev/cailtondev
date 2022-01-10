@@ -1,6 +1,6 @@
 <p align="center">
     <i>Olá Sou o Cailton, <strong>Desenvolvedor Web e Back-End Python</strong><i> 👋👨
-    <br><i>Fanático por Programação e um pouco Otaku<i> 😁
+    <br><i>Fanático por Programação<i> 😁
 </p>
       
 ____
