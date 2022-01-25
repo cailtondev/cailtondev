@@ -48,7 +48,8 @@ ____
 <hr>
 </p>
  
-[![card](https://github-readme-stats.vercel.app/api?username=Cailtom&theme=tokyonight)](https://github.com/Cailtom/)
+[![card](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom)](https://github.com/Cailtom/)
+![Perf](https://github-readme-stats.vercel.app/api/top-langs/?username=Cailtom)
 
         
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/557799328936?text=%20)
