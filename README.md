@@ -39,8 +39,8 @@ ____
 <hr>
 </p>
  
-[![card](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom)](https://github.com/Cailtom/)
-![Perf](https://github-readme-stats.vercel.app/api/top-langs/?username=Cailtom)
+[![card](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom&bg_color=#000)](https://github.com/Cailtom/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cailtom&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
         
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5577999995615?text=%20)
