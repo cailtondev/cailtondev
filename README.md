@@ -42,5 +42,4 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cailton.dev/)
 [![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cailtonoliveira/)
  
-[![card](https://github-readme-stats.vercel.app/api?username=Cailtom&theme=default&show_icons=true)](https://github.com/Cailtom/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cailtom&layout=compact&langs_count=40)](https://github.com/Cailtom/)
