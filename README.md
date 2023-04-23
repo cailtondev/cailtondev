@@ -1,6 +1,3 @@
-<img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" align="right" width="360">
-
-
 # Bem-Vindo (a) ao meu GitHub.
 Sou o **Cailton**, atuo na área de T.I desde 2018, especificamente na área de **Desenvolvimento Web** com maior desejo no **Front End**.
 
